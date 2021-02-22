@@ -1,0 +1,5 @@
+if <* /deneme/osman> 
+{ 
+  go <*/deneme>; make <dataosmantopinar/doctors/makedeneme>;
+  if <pinar> go <pinar/Cihangir>;
+}
